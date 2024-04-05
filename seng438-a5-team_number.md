@@ -41,6 +41,7 @@ In order to select the best models from those that the C-SFRAT gave us, we had t
 MVF Graph for DW3(E) model:
 
 ![image](https://github.com/seng438-winter-2024/seng438-a5-mhabibamara/assets/103873879/89a4c67a-bf38-42a8-8962-ad87fb593f15)
+
 Intensity Graph for DW3(E) model:
 
 ![image](https://github.com/seng438-winter-2024/seng438-a5-mhabibamara/assets/103873879/af1604a4-171e-4eef-87d4-3cbfbef8357b)
@@ -48,6 +49,7 @@ Intensity Graph for DW3(E) model:
 MVF Graph for DW3(F) model:
 
 ![image](https://github.com/seng438-winter-2024/seng438-a5-mhabibamara/assets/103873879/12b6247d-aff5-4eb1-b3b5-6a2bd52dc6f9)
+
 Intensity Graph for DW3(F) model:
 
 ![image](https://github.com/seng438-winter-2024/seng438-a5-mhabibamara/assets/103873879/e5b6ea82-4310-4f96-9d3e-37a698e68c1c)
