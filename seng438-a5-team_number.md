@@ -63,7 +63,7 @@ We utilized the C-SFRAT tool once more to assist in forecasting the testing of t
 
 ### A discussion on the advantages and disadvantages of reliability growth analysis
 Advantages:
-1. 
+
 1. Improved Reliability: The primary advantage of reliability growth analysis is that it leads to improved reliability of the system or product. By identifying and addressing weaknesses, defects, or failure modes, the reliability of the system can be enhanced.
 
 2. Early Detection of Issues: Reliability growth analysis allows for the early detection of potential reliability problems. By monitoring and analyzing reliability data during development or operational phases, issues can be identified and addressed before they lead to significant failures.
