@@ -108,7 +108,9 @@ The MTTF value selected for this graph was determined through looking at the dat
 
 
 # Comparison of Results
+Through RGT, our iterative testing approach facilitated early failure detection and systematic improvement. Analysis of RGT data revealed a progressive reduction in cumulative failures over time, indicative of enhanced reliability through iterative design modifications. Additionally, trend analysis of failure data allowed for targeted improvements, enabling the mitigation of potential failure modes. In contrast, RDC provided a static assessment of reliability against predefined targets. Our RDC analysis demonstrated the system's reliability performance within specified confidence bounds, aiding in compliance assessment and decision-making regarding system release. While RGT emphasized dynamic improvement through iterative testing and trend analysis, RDC offered a structured approach to validate reliability against predetermined targets, enabling comprehensive risk management throughout the system's development lifecycle.
 
+In conclusion, both Reliability Growth Testing and Reliability Demonstration Chart methodologies offer unique insights into system reliability. While RGT facilitates iterative improvement through proactive failure detection and trend analysis, RDC provides a structured framework for validating reliability against predefined targets. By integrating these methodologies, organizations can establish a comprehensive reliability management strategy, effectively addressing both early-stage failures and compliance with reliability specifications.
 # Discussion on Similarity and Differences of the Two Techniques
 Similiarites:
 * Visual Reliability of Tools: Both methods provide a graphical representation to aid in the visualization of reliability data. This makes it clear and easier for test engineers and decision-makers to understand complex reliability and make informed decisions
